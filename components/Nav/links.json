@@ -1,0 +1,38 @@
+[
+    {
+        "text": "home",
+        "link": "/"
+    },
+    {
+        "text": "what is jackbox?",
+        "link": "/what-is-jackbox"
+    },
+    {
+        "text": "games",
+        "link": "/games"
+    },
+    {
+        "text": "how to play",
+        "link": "/how-to-play"
+    },
+    {
+        "text": "blog",
+        "link": "/blog"
+    },
+    {
+        "text": "support",
+        "link": "/support"
+    },
+    {
+        "text": "shop",
+        "link": "/shop"
+    },
+    {
+        "text": "jobs",
+        "link": "/jobs"
+    },
+    {
+        "text": "contact",
+        "link": "/contact"
+    }
+]
