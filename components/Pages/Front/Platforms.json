@@ -1,0 +1,68 @@
+[
+    {
+        "text": "steam",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/1-Steam-e1652476267241.png",
+        "price": "29.99",
+        "link": "https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/"
+    },
+    {
+        "text": "playstation",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/2-PS4-e1652476205577.png",
+        "price": "29.99",
+        "link": "https://store.playstation.com/en-us/product/UP2139-PPSA04139_00-JBGPARTYPACK8PS5"
+    },
+    {
+        "text": "xbox",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/3-XBOX-ONE-e1652476251582.png",
+        "price": "29.99",
+        "link": "https://store.playstation.com/en-us/product/UP2139-PPSA04139_00-JBGPARTYPACK8PS5"
+    },
+    {
+        "text": "nintendo switch",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/4-Nintendo-Switch-e1652476231736.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-switch/"
+    },
+    {
+        "text": "apple tv & ipad",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/5-Apple-TV-Ipad-e1558564368792.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-tvos/"
+    },
+    {
+        "text": "amazon fire tv",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/6-Amazon-Fire-TV-e1558564376386.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-amazon/"
+    },
+    {
+        "text": "bumble (pc/mac/linux)",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/7-Humble-e1558564384126.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-humble/"
+    },
+    {
+        "text": "epic games (pc/mac)",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/9-Epid-Games-e1558564398376.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-epic/"
+    },
+    {
+        "text": "mac app store",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2019/05/11-Mac-App-Store-e1558564279266.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/ext-tjpp8-mac/"
+    },
+    {
+        "text": "stadia",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2021/11/stadiarevised2.png",
+        "price": "29.99",
+        "link": "https://www.jackboxgames.com/product/stadia/"
+    },
+    {
+        "text": "luna monthly subscription",
+        "image": "https://jackboxgames.b-cdn.net/wp-content/uploads/2022/02/lunalogo_bug_black.png",
+        "price": "4.99",
+        "link": "https://www.jackboxgames.com/product/lunamonthly-subscription/"
+    }
+]

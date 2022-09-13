@@ -6,21 +6,7 @@
         <Nuxt />
       </v-container>
     </v-main>
-    <v-footer app>
-      <v-container>
-        <v-row>
-          <v-col cols="4"></v-col>
-          <v-col cols="4"></v-col>
-          <v-col cols="4"></v-col>
-          <v-col cols="12">
-            <v-row justify="space-between">
-              <v-col class="shrink no-break"></v-col>
-              <v-col class="shrink no-break"></v-col>
-            </v-row>
-          </v-col>
-        </v-row>
-      </v-container>
-    </v-footer>
+    <Footer />
   </v-app>
 </template>
 

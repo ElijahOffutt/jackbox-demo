@@ -1,0 +1,21 @@
+[
+    {
+        "text": "home",
+        "link": ""
+    },{
+        "text": "about us",
+        "link": ""
+    },{
+        "text": "games",
+        "link": ""
+    },{
+        "text": "blog",
+        "link": ""
+    },{
+        "text": "jobs",
+        "link": "https://jackbox-games.breezy.hr/"
+    },{
+        "text": "shop",
+        "link": "https://shop.jackboxgames.com/"
+    }
+]
